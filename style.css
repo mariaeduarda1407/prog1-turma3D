@@ -1,9 +1,9 @@
 .cabeçalho{
-    color: rgb(36, 221, 36);
-    background-color: rgb(33, 187, 2);
+    color: rgb(240, 133, 133);
+    background-color: rgb(231, 26, 26);
     justify-content: center;
 }
 .corpo_pagina{
-    background-color: aqua;
+    background-color: rgb(223, 226, 18);
 color: antiquewhite;
 }

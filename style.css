@@ -9,6 +9,7 @@ color: rgb(238, 18, 36);
 }
 .cabeçalho{
     text-align: center;
+    font-size: large
 }
 .cabeçalho_titulo{
     font-size: ;
@@ -16,4 +17,5 @@ color: rgb(238, 18, 36);
 .paragrafo-introdução{
     text-align: center;
     text-align: justify;
-}
+    font-size: 30;
+    }

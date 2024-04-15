@@ -1,11 +1,15 @@
+*{margin: 0%;
+    padding: 0%;
+}
 .cabeçalho{
-    color: rgb(199, 11, 11);
-    background-color: rgb(226, 123, 123);
+    color: rgba(117, 33, 33, 0.295);
+    background-color: rgb(22, 14, 14);
     justify-content: center;
+
 }
 .corpo_pagina{
     background-color: #e09090;
-color: rgb(238, 18, 36);
+color: rgba(196, 89, 98, 0.856);
 }
 .cabeçalho{
     text-align: center;
